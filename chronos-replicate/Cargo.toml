@@ -1,0 +1,10 @@
+[package]
+name = "chronos-replicate"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+
+[dependencies]
+chronos-mem = { path = "../chronos-mem" }
+crossbeam = { workspace = true }
+thiserror = { workspace = true }

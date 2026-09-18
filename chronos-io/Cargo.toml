@@ -1,0 +1,12 @@
+[package]
+name = "chronos-io"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+
+[target.'cfg(target_os = "linux")'.dependencies]
+io-uring = { workspace = true }
+libc = { workspace = true }
+
+[dependencies]
+thiserror = { workspace = true }
