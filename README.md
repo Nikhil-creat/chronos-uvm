@@ -40,3 +40,15 @@ KVM/nested-paging integration is specified but not implemented here, and the
 per-tick `DeltaEngine` wiring in `Supervisor::run_one_cycle` demonstrates the
 data flow rather than the production ownership model (one long-lived
 `DeltaEngine` per cell, not reconstructed per tick).
+
+## 👤 About the Builder
+
+**NIKHIL CHARY SRIRAMOJU**
+B.Tech Final Year — Computer Science & Engineering
+
+- 🔗 LinkedIn: [nikhil-chary-sriramoju](https://in.linkedin.com/in/nikhil-chary-sriramoju-95041b38a)
+- 💻 GitHub: [Nikhil-creat](https://github.com/Nikhil-creat)
+- 📧 Email: sriramojunikhil66@gmail.com
+- 📸 Instagram: [nikhil__sriramoju](https://www.instagram.com/nikhil__sriramoju)
+
+  
